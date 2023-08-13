@@ -4,6 +4,8 @@
         <TargetFramework>net7.0</TargetFramework>
         <Nullable>enable</Nullable>
         <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+        <PackageId>Mialkin.Nuget.Models</PackageId>
+        <Authors>Mialkin.Nuget.Models</Authors>
     </PropertyGroup>
 
 </Project>
